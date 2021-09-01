@@ -33,7 +33,8 @@ LG디스플레이_d군의 This Play](https://www.youtube.com/watch?v=wUswG02gfg0
 
 ## 공통부분
 ## 1.아나콘다 설치하기 
-검색해서 설치 ㄱ
+검색해서 설치 ㄱ  
+[아나콘다 설치하기](https://www.anaconda.com/products/individual)
 ## 2.가상환경 
 ### 1.가상환경을 만드는 이유
 ###  2.가상환경 만들기
