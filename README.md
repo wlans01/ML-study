@@ -35,7 +35,7 @@
 ### 1.가상환경을 만드는 이유
 ###  2.가상환경 만들기
 
-## 1. 탠서플로우 설치하기
+## 1. 탠서플로우 캐라스 설치하기
 원도우 검색창에 아나콘다 프롬포트를 검색해서 실행시킨다.
 
 ![image](https://user-images.githubusercontent.com/76804251/131643532-4587a99a-e05e-410f-a4a7-66cd20b6cae9.png)
@@ -50,7 +50,10 @@ pip 업그레이드가 완료가 되면 탠서플로우 설치 cpu와 gpu의 통
 ```
 pip install tensorflow
 ```
-설치 끝
+케라스 
+```
+pip install keras
+```
 
 ## 주피터 노트북 실행시키기
 
