@@ -10,11 +10,13 @@
 
 # 1. 머신러닝이란?
 알아서 공부하세요  
+[머신러닝 vs 딥러닝 vs 인공지능? A.I. 개념정리!-노마드 코더 Nomad Coders](https://www.youtube.com/watch?v=arbbhHyRP90)  
 추후작성
 
 # 2. 파이썬에서의 머신러닝 프레임워크 종류와 차이
 ## 1.프레임워크란?
-이것도 알아서 공부 추후작성
+이것도 알아서 공부  
+[라이브러리? 프레임워크? 차이점 아직도 모름? 5분 순삭.-노마드 코더 Nomad Coders](https://www.youtube.com/watch?v=t9ccIykXTCM&t=280s)  
 ## 2.프레임워크의 종류
 
 파이썬 머신러닝 프레임워크는 대표적으로 2종류가 있다.
@@ -22,7 +24,8 @@
 2. tensorflow
 
   ## 3.두프레임워크의 차이
-
+[텐서플로우? 파이토치? 딥러닝 프레임워크 1분 정리!-
+LG디스플레이_d군의 This Play](https://www.youtube.com/watch?v=wUswG02gfg0)  
 추후작성
 
 # 3.설치방법
