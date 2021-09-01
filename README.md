@@ -19,7 +19,7 @@
 
 파이썬 머신러닝 프레임워크는 대표적으로 2종류가 있다.
 1. pytorch
-2. tenserflow?
+2. tensorflow
 
   ## 3.두프레임워크의 차이
 
