@@ -54,7 +54,7 @@ pip install tensorflow
 
 ## 주피터 노트북 실행시키기
 
-똑같이 아나콘다 프롬포트에 명령어 입력
+주피터 노트북 설치하기 똑같이 아나콘다 프롬포트에 명령어 입력
 ```
 conda install notebook
 ```
