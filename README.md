@@ -69,5 +69,12 @@ jupyter notebook
 
 주피터 노트북이 열리면 새로 파일을 만들어서 탠서플로우가 잘 깔려 있는지 확인하자
 ```
-
+import tensorflow as tf
+import keras
+```
+오류가 안뜨면 설치 성공
+이제 설치된 버전을 확인해보자
+```
+tf.__version__
+keras.__version__
 ```
